@@ -1,4 +1,4 @@
-from Pelicula import Pelicula
+# from Pelicula import Pelicula
 
 # Creamos una clase llamada Catalogo
 
